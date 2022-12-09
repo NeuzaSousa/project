@@ -1,5 +1,5 @@
 # base image
-FROM node:10.15.0
+FROM node:14.20
 
 # set working directory
 #RUN mkdir /proch/git/project/angular
