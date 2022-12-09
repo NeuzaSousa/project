@@ -21,7 +21,6 @@ export class UserFormComponent {
 	}
 	
 	gotoUserList() {
-		//console.log("Hello from inside gotoUserList");
 		this.router.navigate(['/users']);
 	}
 }
